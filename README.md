@@ -9,11 +9,7 @@
 | --------- | -------------- | ------------------ |
 | 역할      | 팀장           | 팀원               |
 | 담당      | 기획 및 백엔드 | 기획 및 프론트엔드 |
-| 기술 스택 | django         |
-
-Django Rest Framework
-sklearn | Vue
-Primevue |
+| 기술 스택 | django<br>Django Rest Framework<br>sklearn|Vue<br>Primevue|
 
 ## II. 설계내용(아키텍처등) 및 실제 구현 정도
 ![기능 설명](readme_images/기능_표.png)
@@ -44,25 +40,25 @@ Primevue |
 
 ### 목표 추가
 
-![image.png](readme_images/image 1.png)
+![image.png](readme_images/image1.png)
 
 ### 목표 추가 완료 시 화면
 
-![image.png](readme_images/image 2.png)
+![image.png](readme_images/image2.png)
 
 ### 상품 상세 정보 - 목표와 연동 가능
 
-![image.png](readme_images/image 3.png)
+![image.png](readme_images/image3.png)
 
-![image.png](readme_images/image 4.png)
+![image.png](readme_images/image4.png)
 
 ### 목표 디테일 페이지
 
-![image.png](readme_images/image 5.png)
+![image.png](readme_images/image5.png)
 
 - 달성률에 따라 다른 메시지를 출력해 참여 독려
 
-![image.png](readme_images/image 6.png)
+![image.png](readme_images/image6.png)
 
 - 개인 정보 설정 시 5개의 추천 금융 상품 확인 가능
 
@@ -70,13 +66,13 @@ Primevue |
 
 - 개인 정보 설정 후 결과 확인 가능
 
-![image.png](readme_images/image 7.png)
+![image.png](readme_images/image7.png)
 
-![image.png](readme_images/image 8.png)
+![image.png](readme_images/image8.png)
 
 ### 목표 달성 시
 
-![image.png](readme_images/image 9.png)
+![image.png](readme_images/image9.png)
 
 - 색 변화와 이모티콘을 이용해 상태 변화 출력
 

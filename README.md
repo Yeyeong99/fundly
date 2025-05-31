@@ -16,7 +16,7 @@ sklearn | Vue
 Primevue |
 
 ## II. 설계내용(아키텍처등) 및 실제 구현 정도
-
+![기능 설명](readme_images/기능_표.png)
 
 
 ## III. 데이터베이스 모델링(ERD)
@@ -35,7 +35,7 @@ Primevue |
 5. 현재 사용자가 찜하지 않은 상품 중, 4-b에서 추출된 상품을 제안
 
 ## V. 서비스 대표 기능들에 대한 설명
-![기능 설명](readme_images/기능_표.png)
+
 ### 목표 생성
 
 ![image.png](readme_images/image.png)
